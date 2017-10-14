@@ -9,7 +9,7 @@ public class Anasayfa extends Activity {
  
 	private WebView webView;
 	private CustomWebViewClient webViewClient;
-	private String Url = "http://www.mobilhanem.com";
+	private String Url = "http://www.kultuelupenguen.com";
 	ProgressDialog mProgressDialog;
 	
 	public void onCreate(Bundle savedInstanceState) {
